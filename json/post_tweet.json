@@ -1,0 +1,7 @@
+{
+  "error": 1,
+  "errors": [
+    "text is too long",
+    "wrong author format"
+  ]
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "tid": "213123",
+    "text": "text of twit",
+    "ptime": 1492400828
+  },
+  {
+    "tid": "213124",
+    "text": "text of twit",
+    "ptime": 1492400828
+  },
+  {
+    "tid": "213125",
+    "text": "text of twit",
+    "ptime": 1492400828,
+    "author": "author1",
+    "approved": "true"
+  }
+]
